@@ -1,0 +1,6 @@
+init
+checkout
+push
+pull
+clone
+commit
